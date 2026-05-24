@@ -1,0 +1,19 @@
+# Exclude the Documentation directory
+Documentation/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Log]/
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
